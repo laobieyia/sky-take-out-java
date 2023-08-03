@@ -1,2 +1,2 @@
-# sky-take-out-java
-learn to java
+# sky-take-out
+learn to java and do java project
